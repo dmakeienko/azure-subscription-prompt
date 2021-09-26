@@ -9,7 +9,7 @@ This script heavily inspired by [zsh-kubectl-prompt](https://github.com/superbro
 
 ## Usage
 
-1. Clone this repository into `$HOME/.oh-my-zsh/custom/plugins.
+1. Clone this repository into `$HOME/.oh-my-zsh/custom/plugins`.
 2. Add plugin name to `.zshrc`
 3. Add following lines into `.zshrc`
 
